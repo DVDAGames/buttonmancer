@@ -1,0 +1,17 @@
+{
+  "name": "buttonmancer",
+  "version": "0.1.0",
+  "description": "Easily facilitate remapping actions to gamepad buttons and keyboard keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "input",
+    "controller",
+    "remapping"
+  ],
+  "author": "dvdagames",
+  "license": "MIT"
+}
