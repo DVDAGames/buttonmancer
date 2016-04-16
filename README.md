@@ -1,4 +1,4 @@
-#buttonmancer 0.2.0
+#buttonmancer 0.2.1
 
 Easily facilitate mapping gamepad buttons and keyboard keys to specific actions in your game.
 

@@ -1,4 +1,4 @@
-const ButtonmancerUtils = require('./utils/utils');
+const ButtonmancerUtils = require('./utils/buttonmancerutils');
 
 class Buttonmancer {
   constructor(defaultMap) {
