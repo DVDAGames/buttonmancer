@@ -1,6 +1,6 @@
 {
   "name": "buttonmancer",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Easily facilitate remapping actions to gamepad buttons and keyboard keys",
   "main": "index.js",
   "scripts": {

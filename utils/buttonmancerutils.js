@@ -8,7 +8,6 @@ const ButtonmancerUtils = {
   },
 
   convertButtonIndexesToButtonNames(gamepadActionMap, controllerMap) {
-    console.log(controllerMap);
     for(const action in gamepadActionMap) {
       if(gamepadActionMap.hasOwnProperty(action)) {
         gamepadActionMap[action].forEach((buttonIndex, index) => {
