@@ -1,4 +1,4 @@
-import keyCodeMap from './keycodemap';
+const keyCodeMap = require('./keycodemap');
 
 class KeyCodeConverter {
   constructor(keyCode, key, keyIdentifier, shift = false, ctrl = false, alt = false, repeat = false, location = 0) {
@@ -25,4 +25,4 @@ class KeyCodeConverter {
   }
 }
 
-export default KeyCodeConverter;
+module.exports = KeyCodeConverter;

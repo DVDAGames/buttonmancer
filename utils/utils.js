@@ -1,4 +1,4 @@
-import KeyCodeConverter from './keycodeconverter';
+const KeyCodeConverter = require('./keycodeconverter');
 
 const ButtonmancerUtils = {
   getKey({ keyCode, key, shift, ctrlKey, altKey, repeat, location}) {
@@ -8,4 +8,4 @@ const ButtonmancerUtils = {
   }
 };
 
-export default ButtonmancerUtils;
+module.exports = ButtonmancerUtils;

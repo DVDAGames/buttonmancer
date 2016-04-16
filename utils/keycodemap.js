@@ -544,4 +544,4 @@ const keyCodeMap = {
   ]
 };
 
-export default keyCodeMap;
+module.exports = keyCodeMap;

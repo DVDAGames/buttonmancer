@@ -1,4 +1,4 @@
-import ButtonmancerUtils from './utils/utils';
+const ButtonmancerUtils = require('./utils/utils');
 
 class Buttonmancer {
   constructor(defaultMap) {
@@ -42,7 +42,7 @@ class Buttonmancer {
   }
 };
 
-export {
+module.exports = {
   Buttonmancer,
   ButtonmancerUtils
 };
