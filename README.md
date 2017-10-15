@@ -1,8 +1,13 @@
-#buttonmancer 0.2.2
+# buttonmancer 0.2.2
 
 Easily facilitate mapping gamepad buttons and keyboard keys to specific actions in your game.
 
 Buttonmancer supports multiple alternate keys for each action, remapping controls, and returning to default controls;
+
+First you need to install buttonmancer:
+```shell
+npm install @dvdagames/buttonmancer
+```
 
 Just pass in an Action Map to the `Buttonmancer()` class like the example below to get started.
 

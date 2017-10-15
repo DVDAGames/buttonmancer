@@ -1,5 +1,5 @@
 {
-  "name": "buttonmancer",
+  "name": "@dvdagames/buttonmancer",
   "version": "0.2.2",
   "description": "Easily facilitate remapping actions to gamepad buttons and keyboard keys",
   "main": "index.js",
